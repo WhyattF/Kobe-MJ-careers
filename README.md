@@ -21,6 +21,6 @@ Statistical Analysis: In-depth analysis of both players' careers, including game
 
 ## Technologies Used
 
-Pandas: A powerful data analysis and manipulation library for Python.
-SQLite: A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
-Plotly: A Python graphing library to make interactive, publication-quality graphs online.
++ Pandas: A powerful data analysis and manipulation library for Python.
++ SQLite: A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
++ Plotly: A Python graphing library to make interactive, publication-quality graphs online.
