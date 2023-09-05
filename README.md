@@ -11,7 +11,8 @@ This project aims to provide a comprehensive statistical analysis of two of bask
 #### Technologies Used
 
 ## Motivation
-The debate over the greatest basketball player of all time is an age-old one. With this project, we aim to provide a data-driven perspective on the careers of Kobe Bryant and Michael Jordan, offering users the chance to dive deep into their statistics and draw their own conclusions.
+The debate over the greatest basketball player of all time is an age-old one, and it's a topic I frequently discuss with friends. More often than not, the conversation turns to comparing two of the sport's most iconic figures: Kobe Bryant and Michael Jordan. As someone who prefers a data-driven approach to sports debates, I felt the need for an easily accessible database that consolidates statistics and achievements of these two legends. This project was born out of that desire.
+
 
 ## Features
 
