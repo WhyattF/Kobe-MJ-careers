@@ -15,9 +15,9 @@ The debate over the greatest basketball player of all time is an age-old one. Wi
 
 ## Features
 
-Data Importing: Seamless import of multiple datasets like advanced stats, game highs, per-game stats, and more.
-Data Merging: Identify datasets with the 'Season' and 'Player' columns and merge them for a unified view.
-Statistical Analysis: In-depth analysis of both players' careers, including game performances and career achievements.
++ Data Importing: Seamless import of multiple datasets like advanced stats, game highs, per-game stats, and more.
++ Data Merging: Identify datasets with the 'Season' and 'Player' columns and merge them for a unified view.
++ Statistical Analysis: In-depth analysis of both players' careers, including game performances and career achievements.
 
 ## Technologies Used
 
