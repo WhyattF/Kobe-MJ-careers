@@ -18,7 +18,8 @@ The debate over the greatest basketball player of all time is an age-old one. Wi
 Data Importing: Seamless import of multiple datasets like advanced stats, game highs, per-game stats, and more.
 Data Merging: Identify datasets with the 'Season' and 'Player' columns and merge them for a unified view.
 Statistical Analysis: In-depth analysis of both players' careers, including game performances and career achievements.
-Technologies Used
+
+## Technologies Used
 
 Pandas: A powerful data analysis and manipulation library for Python.
 SQLite: A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
